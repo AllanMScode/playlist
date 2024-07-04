@@ -3,3 +3,5 @@ Playlist 2 - Singer 2
 Playlist 3 - Singer 3
 Playlist 4 - Singer 4
 Playlist 5 - Singer 5
+Playlist 6 - Singer 6
+Playlist 7 - Singer 7
